@@ -1,0 +1,7 @@
+PENDENT DE CONFIRMAR (ESPECIFICACIONS.md, §12, punt 2)
+
+Proposta de llicència: Llicència Pública de la Unió Europea, versió 1.2 (EUPL-1.2).
+SPDX-License-Identifier: EUPL-1.2
+
+Aquest fitxer s'ha de substituir pel text íntegre oficial de l'EUPL-1.2 en català
+abans de publicar la versió 1.0.0.

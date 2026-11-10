@@ -1,0 +1,6 @@
+# Dades i còpies: no es pugen mai
+RPS_copia_*.json
+*.csv
+*.xlsx
+*.zip
+node_modules/
